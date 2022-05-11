@@ -1,0 +1,17 @@
+1 –Calcule a pontuação média de um jogador à partir dos pontos obtidos em 3 fases. 
+Leia o valor das 3 pontuações e mostre na saída a média.
+
+2- Escreva um algorítmo que considere a entrada de 3 pontuações e exiba qual é a maior.
+
+3- Supondo que a população de um formigueiro A seja da ordem de 90.000 formigas com uma taxa anual de crescimento de 3% e que a população do formigueiro B seja, aproximadamente, de 200.000 formigas com uma taxa anual de crescimento de 1.7%, fazer um algoritmo que calcule e escreva o número de anos necessários para que a quantidade de formigas do formigueiro A ultrapasse ou iguale a do formigueiro B, mantidas essas taxas de crescimento.
+
+4- Desenvolver um programa que calcule e imprima o Fatorial de um número inteiro informado, usando o Para / For
+
+5- Adivinhe meu número.
+•Crie um jogo onde o computador escolhe um número inteiro aleatório entre 0 e 100.
+•Leia a entrada do usuário para tentar acertar o número;
+•Se errar informar ao usuário se o número é maior ou menor;
+•Repetir até o usuário acertar.
+
+
+
