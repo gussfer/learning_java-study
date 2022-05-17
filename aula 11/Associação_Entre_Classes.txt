@@ -1,0 +1,2 @@
+Agregação e composição: 
+• objeto de uma classe como atributo de uma outra classe

@@ -1,0 +1,10 @@
+Herança:
+
+• 
+•
+
+Polimorfismo:
+
+• Quando um método chamado a partir de uma super classse, assume o comportamento de uma subclasse
+• Necessita: Herança e Sobrescrito (Overwrite)
+• Sobrescrever um método
