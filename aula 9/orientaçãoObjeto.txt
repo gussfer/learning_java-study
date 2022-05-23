@@ -1,0 +1,16 @@
+Classe: 
+    • definição de atributos (variáveis) + Métodos (funções)
+    • tipo de dado definido pelo programador
+Objeto: 
+    • entidade/instancia da Classe
+    • estrutura que armazena informação
+    • normalmente armazenado em uma variável
+    • conceitos que tem estado (atributos), comportamento (metodos) e identidade (instanciar)
+Encapsulamento:
+    • refinado utilizando palavras-chave que controlam o nivel de acesso
+    • private (apenas propria classe)
+    • protected (a propria classe e subclasse)
+    • public (acesso livre)
+    • metodos de acesso (set e get): forma controlada para acesso aos encapsulamentos
+Construtor:
+    • mesmo nome da classe 
